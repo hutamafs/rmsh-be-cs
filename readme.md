@@ -36,6 +36,8 @@ Tasks are saved into a local JSON file automatically after every operation.
 Clone the repository:
 
 ```bash
-git clone https://github.com/your-username/task-tracker-cli.git
+git clone https://github.com/hutamafs/task-tracker-cli.git
 cd task-tracker-cli
 ```
+
+project url: https://roadmap.sh/projects/task-tracker
