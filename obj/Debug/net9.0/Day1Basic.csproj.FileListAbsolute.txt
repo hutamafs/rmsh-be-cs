@@ -1,0 +1,14 @@
+/Users/hutamasaputra/Documents/csharp/Day1Basic/bin/Debug/net9.0/Day1Basic
+/Users/hutamasaputra/Documents/csharp/Day1Basic/bin/Debug/net9.0/Day1Basic.deps.json
+/Users/hutamasaputra/Documents/csharp/Day1Basic/bin/Debug/net9.0/Day1Basic.runtimeconfig.json
+/Users/hutamasaputra/Documents/csharp/Day1Basic/bin/Debug/net9.0/Day1Basic.dll
+/Users/hutamasaputra/Documents/csharp/Day1Basic/bin/Debug/net9.0/Day1Basic.pdb
+/Users/hutamasaputra/Documents/csharp/Day1Basic/obj/Debug/net9.0/Day1Basic.GeneratedMSBuildEditorConfig.editorconfig
+/Users/hutamasaputra/Documents/csharp/Day1Basic/obj/Debug/net9.0/Day1Basic.AssemblyInfoInputs.cache
+/Users/hutamasaputra/Documents/csharp/Day1Basic/obj/Debug/net9.0/Day1Basic.AssemblyInfo.cs
+/Users/hutamasaputra/Documents/csharp/Day1Basic/obj/Debug/net9.0/Day1Basic.csproj.CoreCompileInputs.cache
+/Users/hutamasaputra/Documents/csharp/Day1Basic/obj/Debug/net9.0/Day1Basic.dll
+/Users/hutamasaputra/Documents/csharp/Day1Basic/obj/Debug/net9.0/refint/Day1Basic.dll
+/Users/hutamasaputra/Documents/csharp/Day1Basic/obj/Debug/net9.0/Day1Basic.pdb
+/Users/hutamasaputra/Documents/csharp/Day1Basic/obj/Debug/net9.0/Day1Basic.genruntimeconfig.cache
+/Users/hutamasaputra/Documents/csharp/Day1Basic/obj/Debug/net9.0/ref/Day1Basic.dll
